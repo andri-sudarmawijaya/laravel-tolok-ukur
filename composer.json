@@ -1,6 +1,6 @@
 {
     "name": "bantenprov/laravel-tolok-ukur",
-    "description": "Laravel packages umtuk memanage Tolok Ukur",
+    "description": "Laravel packages umtuk mengolah data Tolok Ukur",
     "authors": [
         {
             "name": "bantenprov",
